@@ -1,0 +1,15 @@
+C:\Users\Romain\Desktop\dev\cs\randomSentenceGenerator\randomSentenceGenerator\bin\Debug\net6.0\randomSentenceGenerator.exe
+C:\Users\Romain\Desktop\dev\cs\randomSentenceGenerator\randomSentenceGenerator\bin\Debug\net6.0\randomSentenceGenerator.deps.json
+C:\Users\Romain\Desktop\dev\cs\randomSentenceGenerator\randomSentenceGenerator\bin\Debug\net6.0\randomSentenceGenerator.runtimeconfig.json
+C:\Users\Romain\Desktop\dev\cs\randomSentenceGenerator\randomSentenceGenerator\bin\Debug\net6.0\randomSentenceGenerator.dll
+C:\Users\Romain\Desktop\dev\cs\randomSentenceGenerator\randomSentenceGenerator\bin\Debug\net6.0\randomSentenceGenerator.pdb
+C:\Users\Romain\Desktop\dev\cs\randomSentenceGenerator\randomSentenceGenerator\obj\Debug\net6.0\randomSentenceGenerator.csproj.AssemblyReference.cache
+C:\Users\Romain\Desktop\dev\cs\randomSentenceGenerator\randomSentenceGenerator\obj\Debug\net6.0\randomSentenceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romain\Desktop\dev\cs\randomSentenceGenerator\randomSentenceGenerator\obj\Debug\net6.0\randomSentenceGenerator.AssemblyInfoInputs.cache
+C:\Users\Romain\Desktop\dev\cs\randomSentenceGenerator\randomSentenceGenerator\obj\Debug\net6.0\randomSentenceGenerator.AssemblyInfo.cs
+C:\Users\Romain\Desktop\dev\cs\randomSentenceGenerator\randomSentenceGenerator\obj\Debug\net6.0\randomSentenceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Romain\Desktop\dev\cs\randomSentenceGenerator\randomSentenceGenerator\obj\Debug\net6.0\randomSentenceGenerator.dll
+C:\Users\Romain\Desktop\dev\cs\randomSentenceGenerator\randomSentenceGenerator\obj\Debug\net6.0\refint\randomSentenceGenerator.dll
+C:\Users\Romain\Desktop\dev\cs\randomSentenceGenerator\randomSentenceGenerator\obj\Debug\net6.0\randomSentenceGenerator.pdb
+C:\Users\Romain\Desktop\dev\cs\randomSentenceGenerator\randomSentenceGenerator\obj\Debug\net6.0\randomSentenceGenerator.genruntimeconfig.cache
+C:\Users\Romain\Desktop\dev\cs\randomSentenceGenerator\randomSentenceGenerator\obj\Debug\net6.0\ref\randomSentenceGenerator.dll
